@@ -1,0 +1,29 @@
+body{
+    background-image: url("Imagenes/123.jpg");
+
+}
+
+h1{
+    color: #ffffff;
+}
+p{
+    color: #ffffff;
+}
+
+#centrar{
+    width: 800px;    
+    margin: 0 auto;
+    height: 330px;
+    padding-left: 10em;
+}
+option{
+    color:  #000000;
+}
+
+select{
+     color:  #000000;
+}
+
+input{
+    color: #000000;
+}
